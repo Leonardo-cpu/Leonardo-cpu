@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Leonardo-cpu
 - 👀 I’m interested in Robotics 
 - 🌱 I’m currently learning C++, Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
